@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Issaw-One/Issaw-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Issaw</h1>
+<h3 align="center">🇫🇷 Kotlin & Java Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Worked on **Drakoria, NoBrainCraft, Dream's MC**, and more  
+- 🌱 Mainly develop **desktop applications** and **Discord bots**  
+- 📫 Reach me on **Discord** *(see below)*  
+- 📄 Check out my experiences **right here on GitHub**  
+
+<br>
+
+### 🛠️ Languages & Tools
+- Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rabbitmq,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,gradle" />
+  </a>
+</p>
+
+- OS's
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </a>
+</p>
+
+
+<br>
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://discord.gg/IssawDev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
