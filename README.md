@@ -31,7 +31,7 @@
 - OS's
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows" />
+    <a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linux,windows"/></a>
   </a>
 </p>
 
