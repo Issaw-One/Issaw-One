@@ -16,15 +16,15 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java" />
+    <a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=kotlin,java"/></a>
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,mysql,sqlite" />
-    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,gradle" />
+    <a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=rabbitmq,mysql,sqlite"/></a>
+    <a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=git,figma,idea,vscode,gradle"/></a>
   </a>
 </p>
 
