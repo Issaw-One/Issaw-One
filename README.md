@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Worked on **Drakoria, NoBrainCraft, Dream's MC**, and more  
+- 🔭 Worked on **Kamui Modded Craft, Drakoria, Dream's MC**, and more  
 - 🌱 Mainly develop **desktop applications** and **Discord bots**  
 - 📫 Reach me on **Discord** *(see below)*  
 - 📄 Check out my experiences **right here on GitHub**  
